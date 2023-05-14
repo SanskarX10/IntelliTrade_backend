@@ -1,0 +1,10 @@
+django
+djangorestframework
+pylint
+coverage
+django-cors-headers
+django-rest-knox
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
