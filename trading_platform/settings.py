@@ -27,7 +27,7 @@ SECRET_KEY = 'd8ea13b2fb3a9f5b2345481737363a18371e6c350ad81991'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = (os.environ.get('DEBUG_VALUE') == 'True')
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
